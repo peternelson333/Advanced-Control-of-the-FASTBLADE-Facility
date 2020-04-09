@@ -9,7 +9,7 @@ The work conducted was divided into two streams.
 
 Files For Research Question 1:
 1) 1D Loading Distribution Optimiser
-Optimal spanwise placements of discrete laods are selected to best replicate desired loading distributions.
+Optimal spanwise placements of discrete loads are selected to best replicate desired loading distributions.
 
 2) 2D Loading Distribution Optimiser
 Optimal spanwise placements and angles of inclined discrete loads are selected to best replicate loading distributions in two dimensions.
