@@ -3,9 +3,9 @@ This folder presents a summary of the work carried out in a final year mechanica
 
 The work conducted was divided into two streams.
 
-# Research Question 1 (Optimising Test Design)- Can the position and angle of discrete loads be optimised to best represent continuous load distributions whilst maintaining regions of interest (upper and lower bounds)?
+## Research Question 1 (Optimising Test Design)- Can the position and angle of discrete loads be optimised to best represent continuous load distributions whilst maintaining regions of interest (upper and lower bounds)?
 
-# Research Question 2 (Adaptive Control)- Can a machine learning model (MLM) obtained from outputs of FASTBLADE’s Simulink model be used to adapt loading frequencies to maintain a constant amplitude fatigue test as specimen stiffness decays within a flowrate limited system?
+## Research Question 2 (Adaptive Control)- Can a machine learning model (MLM) obtained from outputs of FASTBLADE’s Simulink model be used to adapt loading frequencies to maintain a constant amplitude fatigue test as specimen stiffness decays within a flowrate limited system?
 
 Files For Research Question 1:
 1) 1D Loading Distribution Optimiser
