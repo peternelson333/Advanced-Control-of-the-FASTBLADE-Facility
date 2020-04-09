@@ -14,7 +14,7 @@ Optimal spanwise placements of discrete loads are selected to best replicate des
 2) 2D Loading Distribution Optimiser
 Optimal spanwise placements and angles of inclined discrete loads are selected to best replicate loading distributions in two dimensions.
 
-Note that the Graphical User Interface was not included in this repository since it cannot be made publicly available at this time
+Note that the Graphical User Interface was not included in this repository since it is not publicly available at this time.
 
 Files For Research Question 2:
 1) Exporting_Simulink_Datasets_to_CSVs
